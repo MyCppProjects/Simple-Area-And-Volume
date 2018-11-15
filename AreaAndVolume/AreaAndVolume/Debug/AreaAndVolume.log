@@ -1,0 +1,3 @@
+﻿  AreaAndVolume.cpp
+c:\users\flick\source\repos\areaandvolume\areaandvolume\areaandvolume.cpp(10): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+  AreaAndVolume.vcxproj -> C:\Users\Flick\source\repos\AreaAndVolume\Debug\AreaAndVolume.exe
